@@ -18,9 +18,9 @@ class Info extends Component {
             <p className="text-center text-5xl p-5">
               <FontAwesomeIcon icon={faCode} />
             </p>
-            <p className="text-yellow-500 text-2xl p-3">Java Programmes</p>
+            <p className="text-yellow-500 text-2xl p-3">Java Programs</p>
             <p>
-              InfoBot contains Java Programmes, all error checked and fine tuned
+              InfoBot contains Java Program, all error checked and fine tuned
               for School Use. Just Search, Understand, Copy and Paste into your
               favorite IDE.
             </p>
@@ -44,7 +44,7 @@ class Info extends Component {
             </p>
             <p className="text-yellow-500 text-2xl p-3">User Friendly</p>
             <p>
-              Here at InfoBot we value understanding over memorizing. Each
+              Here at InfoBot we value Understanding over Memorizing. Each
               Program Article has 2 sets of explanations, one for the Program
               itself and one for the Logic.
             </p>

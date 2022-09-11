@@ -14,7 +14,7 @@ class Heading extends Component {
     return (
       <React.Fragment>
         <div>
-          <h3 className="pt-5 text-xl">
+          <h3 className="pt-5 pr-2 pl-2 text-xl">
             <FontAwesomeIcon icon={faQuoteLeft} className="text-yellow-500" />
             Everything a Computer Student Requires, For Free
             <FontAwesomeIcon icon={faQuoteRight} className="text-yellow-500" />
