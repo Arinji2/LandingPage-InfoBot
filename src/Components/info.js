@@ -20,7 +20,7 @@ class Info extends Component {
             </p>
             <p className="text-yellow-500 text-2xl p-3">Java Programs</p>
             <p>
-              InfoBot contains Java Program, all error checked and fine tuned
+              InfoBot contains Java Programs, all error checked and fine tuned
               for School Use. Just Search, Understand, Copy and Paste into your
               favorite IDE.
             </p>
@@ -31,7 +31,7 @@ class Info extends Component {
             </p>
             <p className="text-yellow-500 text-2xl p-3">Indexed</p>
             <p>
-              Long Gone are the Days of looking through huge Lists, All of the
+              Long gone are the days of looking through Huge Lists, All of the
               Topics are organized into Sections, each having its own Search
               Engine type Interface.
             </p>
@@ -46,7 +46,7 @@ class Info extends Component {
             <p>
               Here at InfoBot we value Understanding over Memorizing. Each
               Program Article has 2 sets of explanations, one for the Program
-              itself and one for the Logic.
+              itself and one for the Logic used.
             </p>
           </div>
         </div>
