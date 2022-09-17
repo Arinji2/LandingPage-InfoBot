@@ -18,7 +18,7 @@ class Timer extends Component {
           Currently We Are:{" "}
           <span className="text-yellow-500">Adding Articles</span>
         </h1>
-        <div className="pb-10">
+        <div className="pb-10 border-b-2 border-white rounded-lg">
           <h1 className="text-xl">
             Want to be informed on news? Mail{" "}
             <span className="text-yellow-500 shadow-md shadow-white p-2 rounded-lg transition hover:cursor-pointer ease-in-out hover:shadow-lg hover:shadow-white">
